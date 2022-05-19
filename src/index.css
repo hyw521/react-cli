@@ -1,0 +1,14 @@
+body {
+  margin: 0 auto;
+  padding: 0 20px;
+  max-width: 800px;
+  /* background:coral; */
+}
+p{
+  transform: translateX(50%);
+}
+
+#demo-img{
+  background: url('../public/j.jpeg');
+  background-size: contain;
+}
